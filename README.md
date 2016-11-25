@@ -11,7 +11,7 @@ Example
 <html lang="en">
 	<head>
 		<title>json tree example</title>
-		<link href="css/jsontree.css" rel="stylesheet">
+		<link href="css/jsontree.css" rel="stylesheet"/>
 		<script src="jsontree.js"></script>
   	</head>
 	<body>
